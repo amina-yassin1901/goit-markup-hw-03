@@ -134,11 +134,6 @@ img {
     padding: 24px 0;
 }
 
-.page-footer {
-    background-color: #2e2f42;
-    height: 312px;
-}
-
 .section-hero {
     background-color: #2e2f42;
     height: 600px;
@@ -318,6 +313,7 @@ img {
 
 .page-footer {
     padding: 100px 0;
+    background-color: #2e2f42;
 }
 
 .footer-text {
@@ -335,6 +331,5 @@ img {
 
 .footer-logo {
     display: inline-block;
-    padding-top: 100px;
     margin-bottom: 16px;
 }
